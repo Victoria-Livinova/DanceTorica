@@ -17,7 +17,7 @@
 
 ![Image info](https://github.com/Victoria-Livinova/DanceTorica/blob/main/readme_resources/greeting.png)
 
-![Image info](https://github.com/Victoria-Livinova/DanceTorica/blob/main/readme_resources/setting_up_sensors.png)
+![Image info](https://github.com/Victoria-Livinova/DanceTorica/blob/main/readme_resources/sensors_settings.png)
 
 ![Image info](https://github.com/Victoria-Livinova/DanceTorica/blob/main/readme_resources/game_control.png)
 
