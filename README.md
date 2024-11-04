@@ -1,4 +1,4 @@
-# DanceTorica
+# DanceTorika
 
 ## Команда: Мифишки
 
