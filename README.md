@@ -32,9 +32,3 @@
 ![Image info](https://github.com/Victoria-Livinova/DanceTorica/blob/main/readme_resources/main_menu.png)
 
 ![Image info](https://github.com/Victoria-Livinova/DanceTorica/blob/main/readme_resources/training_level.jpg)
-
-## Структура Git-репозитория
-
-
-
-
