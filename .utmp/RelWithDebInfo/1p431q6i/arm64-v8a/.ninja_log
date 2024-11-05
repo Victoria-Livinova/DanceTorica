@@ -1,0 +1,23 @@
+# ninja log v5
+18	4612	7524562063295386	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8655da4851908b54
+60	1581	7524562029505638	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	433ccee54a452a1c
+1583	3230	7524562046671761	C:/Users/Admin/Dancetorika/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p431q6i/obj/arm64-v8a/libswappywrapper.so	5480a841c3de7777
+40	3774	7524562054231466	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3c2c7dd9e1008cb5
+46	4089	7524562057107896	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	444af5537ed7aacb
+1	3824	7524562054755026	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	eb4080b96429c372
+25	3825	7524562055247707	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5bb173a1849d956c
+12	4169	7524562058709416	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ab5e4131c15a728c
+53	3912	7524562055911683	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4a6f4a5b3b8f60bb
+32	4444	7524562061637333	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	775946e7956c8b9
+4612	4766	7524562064967449	C:/Users/Admin/Dancetorika/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p431q6i/obj/arm64-v8a/libgame.so	df6651688cb183e0
+143	1732	7524918865564079	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	433ccee54a452a1c
+1733	3047	7524918878471474	C:/Users/Admin/Dancetorika/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p431q6i/obj/arm64-v8a/libswappywrapper.so	5480a841c3de7777
+110	4261	7524918890225803	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3c2c7dd9e1008cb5
+53	4349	7524918891025012	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	eb4080b96429c372
+90	4387	7524918890067713	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4a6f4a5b3b8f60bb
+128	4460	7524918892097005	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	444af5537ed7aacb
+39	4539	7524918893575985	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5bb173a1849d956c
+26	4628	7524918894212982	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ab5e4131c15a728c
+77	5214	7524918899948861	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	775946e7956c8b9
+64	5626	7524918904483667	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8655da4851908b54
+5627	5872	7524918907069804	C:/Users/Admin/Dancetorika/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p431q6i/obj/arm64-v8a/libgame.so	df6651688cb183e0
